@@ -18,4 +18,5 @@ def main():
             break
     print("quitting...")
 
-main()
+if __name__ == "__main__":
+    main()
